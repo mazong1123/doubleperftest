@@ -286,3 +286,9 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+*-perftest.md
+*-perftest.xml
+*-perftest.csv
+deploy-new.sh
+.vscode/
