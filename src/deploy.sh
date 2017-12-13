@@ -1,4 +1,4 @@
 #!/bin/bash
 rm -rf bin
 rm -rf obj
-dotnet publish
+dotnet publish -c release
